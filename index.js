@@ -1,3 +1,1 @@
-var recipies = {
-  
-}
+var recipies = {}
