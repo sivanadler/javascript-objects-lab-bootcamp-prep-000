@@ -2,6 +2,6 @@ var recipies = {
   
 }
 
-Function updateObjectWithKeyAndValue(recipies, key, value){
+Function updateObjectWithKeyAndValue(Object, key, value){
   return Object.assign({}, object, { [key]: value })
 }
